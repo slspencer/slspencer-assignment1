@@ -1,10 +1,9 @@
 # Assignment 1: Horiseon Webpage
-Accessability challenge
----> screenshot goes here <---
+Accessibility challenge
 
 ## Description:
-
-### This website meets requirements for User Story:
+Assignment to update an existing website to meet accessibility standards  
+This website meets requirements for User Story:
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -24,37 +23,28 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-
--
-[Usage](
-#usage
-)
-
-#### Authors
+### Authors
 Sue Spencer
 
-#### License
-Use restricted to Vanderbilt University, Full Stack Developer Bootcamp students, staff, and administrators
+### License
+Use restricted to Vanderbilt University 'Full Stack Developer Bootcamp' students, staff, and administrators
 
-#### Installation
-Installation is on github pages, more information here: 
-##
-Usage
-Provide instructions and examples for use. Include screensho
-To add a screenshot, create an
-`assets/images`
-folder in you
-```md
-![alt text](assets/images/screenshot.png)
+### Installation
+Installation is on github pages, to view the website go to:  https://slspencer.githubpages.io
+
+### Website should look like this:
+
+![alt text](assets/images/01-html-css-git-homework-demo.png)
+
+_________________________________
+#### Assignment instructions: 
+1. Clone your starter code (https://github.com/coding-boot-camp/urban-octo-telegram)  
+2. Refactor the code to meet the Acceptance Criteria.  
+3. Make sure your work meets the full list of grading requirements.  
+4. Follow the instructions to submit your Challenge for review.  
+
+#### Additional Grading Requirements:
 ```
-
-Assignment instructions:
-1. Clone your starter code (https://github.com/coding-boot-camp/urban-octo-telegram)
-2. Refactor the code to meet the Acceptance Criteria.
-3. Make sure your work meets the full list of grading requirements.
-4. Follow the instructions to submit your Challenge for review.
-
-Additional Grading Requirements
 Application's links all function correctly.
 Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 Application's CSS fi le is properly commented.
@@ -68,7 +58,10 @@ Repository follows best practices for fi le structure and naming conventions.
 Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 Repository contains multiple descriptive commit messages.
 Repository contains a quality README fi le with description, screenshot, and link to deployed application.
+```
 
-How to Submit the Challenge
+#### How to Submit the Challenge:
+```
 The URL of the deployed application.
 The URL of the GitHub repository that contains your code. Give the repository a unique name and include aREADME fi le that describes the project.
+```
