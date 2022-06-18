@@ -1,6 +1,6 @@
 # Assignment 1: Horiseon Webpage
 Website accessibility challenge  
-Website URL: https://slspencer.github.io/Assignment1/Develop/index.html
+Website URL: https://slspencer.github.io/slspencer-assignment1/Develop/index.html
 
 ## Description:
 Assignment to update an existing website to meet accessibility standards  
@@ -24,17 +24,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-### Authors
-Sue Spencer
-
-### License
-Use restricted to Vanderbilt University 'Full Stack Developer Bootcamp' students, staff, and administrators
-
-### Installation
-Installation is on github pages, to view the website go to:  https://slspencer.githubpages.io
 
 ### Website should look like this:
-
 ![Horiseon Website mockup](https://github.com/slspencer/Assignment1/blob/main/Develop/assets/images/01-html-css-git-homework-demo.png)
 
 _________________________________
@@ -63,6 +54,11 @@ Repository contains a quality README fi le with description, screenshot, and lin
 
 #### How to Submit the Challenge:
 ```
-The URL of the deployed application.
+The URL of the deployed application.  
 The URL of the GitHub repository that contains your code. Give the repository a unique name and include aREADME fi le that describes the project.
 ```
+#### Authors  
+Sue Spencer
+
+#### License  
+Use restricted to Vanderbilt University 'Full Stack Developer Bootcamp' students, staff, and administrators  
