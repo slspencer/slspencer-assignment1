@@ -1,5 +1,5 @@
 # Assignment 1: Horiseon Webpage
-Accessibility challenge
+Website accessibility challenge  
 Website URL: https://slspencer.github.io/Assignment1/Develop/index.html
 
 ## Description:
