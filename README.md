@@ -34,7 +34,7 @@ Installation is on github pages, to view the website go to:  https://slspencer.g
 
 ### Website should look like this:
 
-![alt text](assets/images/01-html-css-git-homework-demo.png)
+![Horiseon Website mockup](./assets/images/01-html-css-git-homework-demo.png)
 
 _________________________________
 #### Assignment instructions: 
